@@ -8,7 +8,13 @@ Template itself located in `main.cpp`.
 
 ## How to use it
 
-First, make sure `$ make --version` works on your machine. Then we can move to our problems. If `acm.math.spbu.ru` is not your platform, you can't use `optimization.h` file, but you can simply copy and paste fast io from there. Let's solve A+B problem with this template, here is solution:
+First, make sure this code works on your machine:
+```bash
+make --version
+clang-10 --version
+```
+If `acm.math.spbu.ru` is not your platform, you can't use `optimization.h` file, but you can simply copy and paste fast IO from there.
+Let's solve A+B problem with this template, here is solution:
 
 ```c++
 #include <bits/stdc++.h>
