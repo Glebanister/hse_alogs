@@ -1,4 +1,4 @@
-# My olympiad programming toolset
+# My contest solving toolset
 
 ## What is this
 
